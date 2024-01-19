@@ -1,2 +1,2 @@
-# incomeCalculator
+# Income Calculator
 Calculate your income
